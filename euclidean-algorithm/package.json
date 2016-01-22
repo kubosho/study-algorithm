@@ -1,0 +1,14 @@
+{
+  "name": "euclidean-algorithm",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index_test.js"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "kubosho",
+  "license": "MIT"
+}
